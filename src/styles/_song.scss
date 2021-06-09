@@ -16,6 +16,14 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .song-container {
+    img {
+      width: 60%;
+    }
+  }
+}
+
 .rotation {
   animation: rotation 15s infinite linear;
 }

@@ -19,6 +19,14 @@ h3 {
   color: rgb(54, 54, 54);
 }
 
+.App {
+  transition: all 0.5s ease 0s;
+}
+
+.library-active {
+  margin-left: 15%;
+}
+
 @import "./song";
 @import "./player";
 @import "./library";
