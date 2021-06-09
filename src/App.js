@@ -6,8 +6,8 @@ import Player from "./components/Player";
 import Song from "./components/Song";
 import Library from "./components/Library";
 import Navbar from "./components/Navbar";
-// Import  util:
-import chillHop from "./util";
+// Import data:
+import chillHop from "./data";
 function App() {
   // Ref:
   const audioRef = useRef(null);
