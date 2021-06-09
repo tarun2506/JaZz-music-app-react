@@ -7,6 +7,8 @@
   background-color: white;
   border-top-right-radius: 10rem;
   transform: translateX(-100%);
+  transition: all 0.5s ease 0s;
+  opacity: 0;
   border-bottom-right-radius: 10rem;
   box-shadow: 2px 2px 50px rgb(202, 202, 202);
   overflow-x: scroll;
@@ -58,4 +60,9 @@
 
 .selected {
   background-color: rgba(2, 155, 130, 0.3);
+}
+
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
 }
