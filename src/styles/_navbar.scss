@@ -8,14 +8,21 @@ nav {
     background: transparent;
     border: none;
     cursor: pointer;
-    border: 2px solid rgb(66, 66, 66);
+    border: 2px solid white;
     padding: 0.5rem;
     transition: all 0.3s ease;
+    font-size: 1rem;
+    border-radius: 10px;
+    color: white;
     &:hover {
-      background: rgb(66, 66, 66);
-      color: white;
+      background: white;
+      color: rgb(66, 66, 66);
     }
   }
+}
+.logo {
+  color: white;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {
