@@ -16,8 +16,8 @@ function chillHop() {
     {
       name: "Toxic Ends",
       artist: "Rarin",
-      cover: "https://i.ytimg.com/vi/vtBqT-0mLF4/maxresdefault.jpg",
-      color: ["#7EAE02", "#D5CCEB"],
+      cover: "https://i.scdn.co/image/ab67616d0000b2733bdec1fc77ffad4da7cccc28",
+      color: ["#7EAE02", "#452E76"],
       id: uuidv4(),
       active: false,
       audio:
@@ -26,7 +26,8 @@ function chillHop() {
     {
       name: "Switching Sides",
       artist: "Rarin",
-      cover: "https://i.ytimg.com/vi/QAPirD7zXZw/maxresdefault.jpg",
+      cover:
+        "https://i1.sndcdn.com/artworks-S4V8RMrLPwdoUHys-HU9a1g-t500x500.jpg",
       color: ["#9402F4", "#000000"],
       id: uuidv4(),
       active: false,
@@ -36,7 +37,8 @@ function chillHop() {
     {
       name: "2Dangerous",
       artist: "Lil Story, Rarin",
-      cover: "https://i.ytimg.com/vi/eSm4_GDmtlw/maxresdefault.jpg",
+      cover:
+        "https://cdns-images.dzcdn.net/images/cover/73f59a682546a2c317bfd56e4fd3941d/500x500.jpg",
       color: ["#9833E9", "#D3C78C"],
       id: uuidv4(),
       active: false,
@@ -46,8 +48,9 @@ function chillHop() {
     {
       name: "Decals",
       artist: "Rarin",
-      cover: "https://i.ytimg.com/vi/YSO9LwT5Qjo/sddefault.jpg?v=5ff22f97",
-      color: ["#C443EE", "#0A0942"],
+      cover:
+        "https://i1.sndcdn.com/artworks-BVtxtTm4JSiFOcqy-qVqZUA-t500x500.jpg",
+      color: ["#FD01F5", "#22282F"],
       id: uuidv4(),
       active: false,
       audio:
@@ -67,8 +70,7 @@ function chillHop() {
     {
       name: "Arcade",
       artist: "Duncan Laurence",
-      cover:
-        "https://static.eurovision.tv/hb-cgi/images/8d9181f0-6b70-44c0-bd27-0867a4547cd2/hero.png",
+      cover: "https://i1.sndcdn.com/artworks-000537794841-wuqat8-t500x500.jpg",
       color: ["#456594", "#10243D"],
       id: uuidv4(),
       active: false,
@@ -78,12 +80,55 @@ function chillHop() {
     {
       name: "Make You Mine",
       artist: "PUBLIC",
-      cover: "https://i.ytimg.com/vi/nLnp0tpZ0ok/maxresdefault.jpg",
-      color: ["#15324C", "#875943"],
+      cover:
+        "https://images-na.ssl-images-amazon.com/images/I/51NO74aNn5L._SY445_SX342_QL70_ML2_.jpg",
+      color: ["#050A1E", "#CAEFF5"],
       id: uuidv4(),
       active: false,
       audio:
         "https://rildi.sunproxy.net/file/THQ4V2JERU9LYUs0d1BkR0Qxb1pZOHVwMjg2L0xBbXE5T3cxKzJQZ3Y5dkxMRVFvSHNPTVVFYkVwd1pxRkIybXFLa0JoZjFuZzNZWjVPSldRZFd4cWNabTEycGhGdmhoeVRtU3BtMXg2YVU9/PUBLIC_-_Make_You_Mine_(Hydr0.org).mp3",
+    },
+    {
+      name: "Astronaut in the ocean",
+      artist: "Masked Wolf",
+      cover:
+        "https://images.genius.com/cb1f1b53f2d75c73719714cba8e9f18e.1000x1000x1.png",
+      color: ["#5B6F7E", "#46525F"],
+      id: uuidv4(),
+      active: false,
+      audio:
+        "https://rildi.sunproxy.net/file/ZUdUZWp1bDU4QjhhSnkzN0lFVTNCQ1dROE9iVTBWUXJpdEdBT0NLS0NlMmdwc2pWYzNzRVBTSDJSQ2xQb21KOVpMdjhHL3hsQzB3MCt4c1NjdVQyVjMyWXJhTUJKVzNzOXBhNE1BcHhMSU09/Masked_Wolf_-_Astronaut_In_The_Ocean_(Hydr0.org).mp3",
+    },
+    {
+      name: "Peaches",
+      artist: "Justin Bieber feat. Daniel Caeser, Giveon",
+      cover:
+        "https://static.wixstatic.com/media/7e1048_be7a1f13e24f4dd6bed27b3af6b35b22~mv2.jpg/v1/fill/w_3000,h_3000,al_c,q_85/7e1048_be7a1f13e24f4dd6bed27b3af6b35b22~mv2.jpg",
+      color: ["#25176F", "#9A231D"],
+      id: uuidv4(),
+      active: false,
+      audio:
+        "https://rildi.sunproxy.net/file/ZUdUZWp1bDU4QjhhSnkzN0lFVTNCQ1dROE9iVTBWUXJpdEdBT0NLS0NlMmdwc2pWYzNzRVBTSDJSQ2xQb21KOVBPaUExR2xKSzhXeCsyWGs2SU1xZERLNmt0czdsbnNyZmVxNVhvNlUzTVk9/Justin_Bieber_feat._Daniel_Caesar_Giveon_-_Peaches_(Hydr0.org).mp3",
+    },
+    {
+      name: "Someone You Loved",
+      artist: "Lewis Capaldi",
+      cover: "https://i1.sndcdn.com/artworks-000677174977-d6v04a-t500x500.jpg",
+      color: ["#350101", "#A90600"],
+      id: uuidv4(),
+      active: false,
+      audio:
+        "https://rildi.sunproxy.net/file/ZUdUZWp1bDU4QjhhSnkzN0lFVTNCQ1dROE9iVTBWUXJpdEdBT0NLS0NlMkNBMjRQQXkzeXJuOVFHVnVGeFJRZkpDWnJld2lQZ0NpUmlCaHZPSEVtWFMwL1BFSERNWGhvQ1RreU9IMTJhcEU9/Lewis_Capaldi_-_Someone_You_Loved_(Hydr0.org).mp3",
+    },
+    {
+      name: "Without Me",
+      artist: "Halsey",
+      cover: "https://pbs.twimg.com/media/DoM_wftV4AAEcSX.jpg",
+      color: ["#18BAA7", "#B9722C"],
+      id: uuidv4(),
+      active: false,
+      audio:
+        "https://rildi.sunproxy.net/file/ZUdUZWp1bDU4QjhhSnkzN0lFVTNCQ1dROE9iVTBWUXJpdEdBT0NLS0NlMkNBMjRQQXkzeXJuOVFHVnVGeFJRZjRxbjRyUFNxa0FRTVNqZ0owRkdlNlJHdUZZL2t3QVRwNlhLNmVWZ0RleXc9/Halsey_-_Without_Me_(Hydr0.org).mp3",
     },
   ];
 }
